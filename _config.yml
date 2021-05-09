@@ -16,19 +16,19 @@
 
 #title: Practical coding
 #title: 학습하고 적용하고 공유하자
-title: Learn, apply and share
-email: min9nim@gmail.com
+title: Likelion-DGIST 기술블로그
+email: taehyeongkim@likelion.org
 description: >- # this means to ignore newlines until "baseurl:"
-  SW 개발에 대한 이야기
+  Likelion-DGIST 기술블로그
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://min9nim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://likelion-dgist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username: min9nim
-tistory_username : minq
-twitter_username: min9nim
-twitter_username2: smg529
-facebook_username:  min9nim
-google_analytics: true
+github_username: likelion-dgist
+tistory_username : likelion-dgist
+twitter_username: likelion-dgist
+twitter_username2: likelion-dgist
+facebook_username:  likelion-dgist
+google_analytics: False
 
 disqus:
   comments: true
@@ -62,7 +62,7 @@ navigation:
    url: /tags
  - title: Archives
    url: /archives
- 
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
